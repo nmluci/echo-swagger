@@ -1,4 +1,4 @@
-module github.com/swaggo/echo-swagger
+module github.com/nmluci/echo-swagger
 
 go 1.21
 
